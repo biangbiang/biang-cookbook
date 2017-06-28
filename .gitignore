@@ -17,3 +17,5 @@ _book
 
 # vim temp file
 *.swp
+
+master.sh

@@ -6,4 +6,5 @@
 * [炖骨头汤用冷水还是热水](common/stewed-bone-soup-with-cold-water-or-hot-water.md)
 
 ## 菜谱
+* [梅干菜烧肉](cookbook/semi-rotted-vegetables-meat.md)
 
