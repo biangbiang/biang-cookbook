@@ -1,0 +1,27 @@
+{
+  "title": "biang叔的厨房宝典",
+  "description": "记录一些做过的菜谱和厨房常识",
+  "author": "biangbiang",
+  "language": "en",
+  "gitbook": "3.2.2",
+  "root": ".",
+  "structure": {
+    "readme": "README.md"
+  },
+  "links": {
+    "sidebar": {
+    }
+  },
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "plugins": [
+    "-sharing",
+    "toggle-chapters"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": false
+    }
+  }
+}
