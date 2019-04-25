@@ -9,4 +9,5 @@
 * [梅干菜烧肉](cookbook/semi-rotted-vegetables-meat.md)
 * [黄豆肉皮冻](cookbook/soya-bean-skin-frozen.md)
 * [面糊饼](cookbook/the-batter-cake.md)
+* [烤秋刀鱼](cookbook/roast-mackerel-pike.md)
 
